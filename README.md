@@ -4,4 +4,4 @@ This is an application for parsing excel files. The program solves a big problem
 
 # How to use
 
-## Coming soon
+Coming soon!
