@@ -1,3 +1,0 @@
-/Users/chrisd/Desktop/ParseXLS/build/CMakeFiles/XLS_Parser.dir
-/Users/chrisd/Desktop/ParseXLS/build/CMakeFiles/edit_cache.dir
-/Users/chrisd/Desktop/ParseXLS/build/CMakeFiles/rebuild_cache.dir
